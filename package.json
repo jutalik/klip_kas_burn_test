@@ -1,0 +1,23 @@
+{
+  "name": "klip_kas_burn_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jutalik/klip_kas_burn_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jutalik/klip_kas_burn_test/issues"
+  },
+  "homepage": "https://github.com/jutalik/klip_kas_burn_test#readme",
+  "dependencies": {
+    "caver-js": "1.8.0",
+    "node-fetch": "2.6.1"
+  }
+}
